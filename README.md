@@ -20,8 +20,7 @@ https://www.shigezone.com/
 
 
 サーボモータやロボットの脚などはビット・トレード・ワンでセットで購入可能
-https://btoshop.jp/2020/03/23/adcrsupport/?fbclid=IwAR30GvtC0t1VPi2Fxyethjuw_bv_4HtYRTWXunakZAUfAYnwXDM98QLNTyE
-
+https://btoshop.jp/collections/educationrobot/products/adcr
 
 
 # Author
