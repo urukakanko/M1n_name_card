@@ -1,7 +1,22 @@
 # M1n_name_card
- 
+
+![](meishi.jpg)
+
 砂川の個人名刺組立資料です
- 
+
+
+![](meishirobojpg.jpg)
+
+組立てると四足歩行ロボになります
+
+
+
+# 回路図
+
+![](meishi_kairo.png)
+
+
+
 # DEMO
 
 組立後の動作画像
